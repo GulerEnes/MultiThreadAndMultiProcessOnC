@@ -1,5 +1,5 @@
 # MultiThreadAndMultiProcessOnC
-Bu, rastgele seçilen bir tamsayı dizisine en yakın sayıyı tahmin etmeye çalışan veya işleyen bir oyundur.
+This is a game that threads or processes trying to guess closest numbers to a randomly selected integer array. 
 
 ## Run Instructions
 gcc guess_process.c -o guess_process
